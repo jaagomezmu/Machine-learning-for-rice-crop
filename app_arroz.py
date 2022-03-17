@@ -1,2 +1,2 @@
 import streamlit as st
-st.write(Prueba aplicativo web)
+st.write("Prueba aplicativo web")
