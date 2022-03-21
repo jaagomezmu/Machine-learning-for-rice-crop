@@ -1,2 +1,4 @@
 password: ProYecTo2022
 email: proyectoarroz2022@gmail.com
+
+# Se debe crear una base de datos de las estaciones climatias
